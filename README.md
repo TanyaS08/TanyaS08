@@ -1,6 +1,6 @@
 ## Tanya says hi 👋
 
-🎓 I'm scheduled to start a PhD at Université de Montréal at the [Poisot lab](https://poisotlab.io) using AI methods in ecology
+🎓 Scheduled to start a PhD at the [Poisot lab](https://poisotlab.io) using AI methods in ecology
 
 🧪 Commited to (and educating myself) on developing more open workflows
 
