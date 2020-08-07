@@ -7,13 +7,13 @@
 
 🎓 Scheduled to start a PhD at the [Poisot lab](https://poisotlab.io) using AI methods in ecology
 
-🧪 Commited to (and educating myself on) developing more open and reproducible workflows
+🧪 Committed to (and educating myself on) developing more open and reproducible workflows
 
 🔭 Working on broadening my knowledge of machine learning and programming workflows
 
 🌱 Excited to start learning more about Julia 
 
-🎨 Part-time doodler, 🐾 Adrenaline junkie, and ☕️ warm bevarage fan
+🎨 Part-time doodler, 🐾 Adrenaline junkie, and ☕️ warm beverage fan
 
 🐦 Tweets `@TanyaS_08` and 📝 blogs at [`TanyaDoesScience`](https://tanyadoesscience.com)
 
