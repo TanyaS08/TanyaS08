@@ -1,8 +1,10 @@
-## Tanya says hi 👋
+## Howzit 👋
+
+📌 A South African 🇿🇦 on a temporary stay in the British countryside 
 
 🎓 Scheduled to start a PhD at the [Poisot lab](https://poisotlab.io) using AI methods in ecology
 
-🧪 Commited to (and educating myself) on developing more open workflows
+🧪 Commited to (and educating myself on) developing more open and accessible workflows
 
 🔭 Working on broadening my knowledge of machine learning and programming workflows
 
@@ -10,7 +12,7 @@
 
 🎨 Part-time doodler, 🐾 Adrenaline junkie, and ☕️ warm bevarage fan
 
-🐦 Tweet `@TanyaS_08` and 🏡 blog at [TanyaDoesScience](https://tanyadoesscience.com)
+🐦 Tweets `@TanyaS_08` and 📝 blogs at [`TanyaDoesScience`](https://tanyadoesscience.com)
 
 
 
