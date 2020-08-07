@@ -1,3 +1,6 @@
+
+![Header](https://github.com/TanyaS08/TanyaS08/blob/master/READMEheader-01.png?raw=true)
+
 ## Howzit 👋
 
 📌 A South African 🇿🇦 on a temporary stay in the British countryside 
