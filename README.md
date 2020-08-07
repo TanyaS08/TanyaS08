@@ -4,7 +4,7 @@
 
 🎓 Scheduled to start a PhD at the [Poisot lab](https://poisotlab.io) using AI methods in ecology
 
-🧪 Commited to (and educating myself on) developing more open and accessible workflows
+🧪 Commited to (and educating myself on) developing more open and reproducible workflows
 
 🔭 Working on broadening my knowledge of machine learning and programming workflows
 
