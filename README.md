@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/TanyaS08/TanyaS08/blob/master/FlowerAvi-01.png?raw=true)](https://tanyadoesscience.com)
+[![Header](https://github.com/TanyaS08/TanyaS08/blob/master/READMEheader-01.png?raw=true)](https://tanyadoesscience.com)
 
 <div align="center">
 
