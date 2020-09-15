@@ -1,16 +1,18 @@
 
-[![Header](https://github.com/TanyaS08/TanyaS08/blob/master/READMEheader-01.png?raw=true)](https://tanyadoesscience.com)
+![Header](https://github.com/TanyaS08/TanyaS08/blob/master/READMEheader-01.png?raw=true)
 
 <div align="center">
 
-[![Generic badge](https://img.shields.io/static/v1.svg?label=🔗&message=Poisot&nbsp;Lab&style=for-the-badge&&color=0d5452&labelColor=f2c2c2)](https://poisotlab.io)
-[![Generic badge](https://img.shields.io/badge/@TanyaS_08-9cf?logo=twitter&style=for-the-badge&)](https://twitter.com/TanyaS_08)
-[![Generic badge](https://img.shields.io/static/v1.svg?label=🏡&message=TanyaDoesScience&style=for-the-badge&&color=0d5452&labelColor=f2c2c2)](https://tanyadoesscience.com)<br/>
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://tanyadoesscience.com)
+
 
 </div>
 <!--
 **TanyaS08/TanyaS08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Generic badge](https://img.shields.io/static/v1.svg?label=🔗&message=Poisot&nbsp;Lab&style=for-the-badge&&color=0d5452&labelColor=f2c2c2)](https://poisotlab.io)
+[![Generic badge](https://img.shields.io/badge/@TanyaS_08-9cf?logo=twitter&style=for-the-badge&)](https://twitter.com/TanyaS_08)
+[![Generic badge](https://img.shields.io/static/v1.svg?label=🏡&message=TanyaDoesScience&style=for-the-badge&&color=0d5452&labelColor=f2c2c2)](https://tanyadoesscience.com)<br/>
 
 Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
