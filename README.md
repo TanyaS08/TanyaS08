@@ -3,8 +3,6 @@
 
 <div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://tanyadoesscience.com)
-
 
 </div>
 <!--
