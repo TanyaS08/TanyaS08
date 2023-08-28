@@ -4,7 +4,6 @@
 <div align="center">
 
 
-</div>
 <!--
 **TanyaS08/TanyaS08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
