@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 🎨 Part-time doodler, 🐾 Adrenaline junkie, and ☕️ warm beverage fan
 
-🦣 Toots (apparently that a thing?), although rarely `@TanyaS08@ecoevo.social` and 📝 posts (also rarely) at [`TanyaDoesScience`]
+🦋 On the social media, although rarely, `@tanyadoesscience.bsky.social` and 📝 posts (even more rarely) at [`TanyaDoesScience`]
 
