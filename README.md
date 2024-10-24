@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://forthebadge.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyas08&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/TanyaS08/TanyaS08/blob/master/LogoNetwork.png?raw=true" align="right" alt="" width="200" />
+
 -->
 
-## Howzit 👋 <img src="https://github.com/TanyaS08/TanyaS08/blob/master/LogoNetwork.png?raw=true" align="right" alt="" width="200" />
+## Howzit 👋
 
 📌 A South African 🇿🇦 on a research outpost at [@BecksLab](https://github.com/BecksLab) 
 
